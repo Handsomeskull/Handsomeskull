@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Handsomeskull
+- 👀 I’m interested in everything with technology
+- 🌱 I’m currently learning Tauri and cordova mostly
+- 💞️ I’m looking to collaborate on things I like baby
+- ⚡ Fun fact: I'm turkish!
